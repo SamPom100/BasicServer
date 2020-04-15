@@ -1,0 +1,26 @@
+LOG - SAM: SAM joined!
+
+LOG - MAT: MAT joined!
+
+LOG - SAM: SAM: hi
+
+LOG - MAT: MAT: sup
+
+LOG - SAM: SAM: what's goin on
+
+LOG - MAT: MAT: nm, just talking to myself LOL
+
+LOG - SAM: SAM: #bushell
+
+LOG - SAM: SAM: #users
+
+LOG - MAT: MAT was banned
+
+LOG - SAM: SAM: #ban MAT
+
+LOG - SAM: SAM: get f*cked
+
+LOG - SAM: SAM: a
+
+LOG - SAM: Server has shutdown
+

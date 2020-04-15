@@ -1,0 +1,10 @@
+LOG - SAM: SAM joined!
+
+LOG - SAM: SAM: hi
+
+LOG - SAM: SAM: what's up
+
+LOG - SAM: SAM: gonna log this lol
+
+LOG - SAM: SAM: #bushell
+

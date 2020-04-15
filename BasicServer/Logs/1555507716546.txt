@@ -1,0 +1,6 @@
+LOG - SAM: SAM joined!
+
+LOG - SAM: SAM: #bushell
+
+LOG - SAM: Server has shutdown
+

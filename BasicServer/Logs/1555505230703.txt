@@ -1,0 +1,18 @@
+LOG - GEIMER: GEIMER joined!
+
+LOG - GEIMER: GEIMER: hi
+
+LOG - SAM: SAM joined!
+
+LOG - SAM: SAM: hi from sam
+
+LOG - GEIMER: GEIMER: #bushell
+
+LOG - GEIMER: GEIMER: #commands
+
+LOG - SAM: SAM was banned
+
+LOG - GEIMER: GEIMER: #ban Sam
+
+LOG - GEIMER: Server has shutdown
+
